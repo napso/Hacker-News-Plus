@@ -7,60 +7,60 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A10000001 /* HackerNewsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10000011 /* HackerNewsApp.swift */; };
-		A10000002 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10000012 /* ContentView.swift */; };
-		A10000003 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A10000013 /* Assets.xcassets */; };
-		A10000004 /* Story.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10000014 /* Story.swift */; };
-		A10000005 /* Comment.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10000015 /* Comment.swift */; };
-		A10000006 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10000016 /* User.swift */; };
-		A10000007 /* SearchResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10000017 /* SearchResult.swift */; };
-		A10000008 /* HackerNewsAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10000018 /* HackerNewsAPI.swift */; };
-		A10000009 /* BookmarkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10000019 /* BookmarkManager.swift */; };
-		A1000000A /* ThemeManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000001A /* ThemeManager.swift */; };
-		A1000000B /* StoryListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000001B /* StoryListViewModel.swift */; };
-		A1000000C /* StoryDetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000001C /* StoryDetailViewModel.swift */; };
-		A1000000D /* SearchViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000001D /* SearchViewModel.swift */; };
-		A1000000E /* UserProfileViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000001E /* UserProfileViewModel.swift */; };
-		A1000000F /* StoryListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000001F /* StoryListView.swift */; };
-		A10000010 /* StoryDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10000020 /* StoryDetailView.swift */; };
-		A10000021 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10000031 /* SearchView.swift */; };
-		A10000022 /* UserProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10000032 /* UserProfileView.swift */; };
-		A10000023 /* BookmarksView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10000033 /* BookmarksView.swift */; };
-		A10000024 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10000034 /* SettingsView.swift */; };
-		A10000025 /* HTMLTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10000035 /* HTMLTextView.swift */; };
-		A10000026 /* SafariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10000036 /* SafariView.swift */; };
-		A10000027 /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10000037 /* LoadingView.swift */; };
+		B10000001 /* HackerNewsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000001 /* HackerNewsApp.swift */; };
+		B10000002 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000002 /* ContentView.swift */; };
+		B10000003 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C10000003 /* Assets.xcassets */; };
+		B10000004 /* Story.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000004 /* Story.swift */; };
+		B10000005 /* Comment.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000005 /* Comment.swift */; };
+		B10000006 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000006 /* User.swift */; };
+		B10000007 /* SearchResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000007 /* SearchResult.swift */; };
+		B10000008 /* HackerNewsAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000008 /* HackerNewsAPI.swift */; };
+		B10000009 /* BookmarkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000009 /* BookmarkManager.swift */; };
+		B1000000A /* ThemeManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1000000A /* ThemeManager.swift */; };
+		B1000000B /* StoryListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1000000B /* StoryListViewModel.swift */; };
+		B1000000C /* StoryDetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1000000C /* StoryDetailViewModel.swift */; };
+		B1000000D /* SearchViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1000000D /* SearchViewModel.swift */; };
+		B1000000E /* UserProfileViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1000000E /* UserProfileViewModel.swift */; };
+		B1000000F /* StoryListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1000000F /* StoryListView.swift */; };
+		B10000010 /* StoryDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000010 /* StoryDetailView.swift */; };
+		B10000011 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000011 /* SearchView.swift */; };
+		B10000012 /* UserProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000012 /* UserProfileView.swift */; };
+		B10000013 /* BookmarksView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000013 /* BookmarksView.swift */; };
+		B10000014 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000014 /* SettingsView.swift */; };
+		B10000015 /* HTMLTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000015 /* HTMLTextView.swift */; };
+		B10000016 /* SafariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000016 /* SafariView.swift */; };
+		B10000017 /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10000017 /* LoadingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		A10000001 /* HackerNewsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HackerNewsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		A10000011 /* HackerNewsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackerNewsApp.swift; sourceTree = "<group>"; };
-		A10000012 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		A10000013 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		A10000014 /* Story.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Story.swift; sourceTree = "<group>"; };
-		A10000015 /* Comment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Comment.swift; sourceTree = "<group>"; };
-		A10000016 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
-		A10000017 /* SearchResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResult.swift; sourceTree = "<group>"; };
-		A10000018 /* HackerNewsAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackerNewsAPI.swift; sourceTree = "<group>"; };
-		A10000019 /* BookmarkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookmarkManager.swift; sourceTree = "<group>"; };
-		A1000001A /* ThemeManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeManager.swift; sourceTree = "<group>"; };
-		A1000001B /* StoryListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryListViewModel.swift; sourceTree = "<group>"; };
-		A1000001C /* StoryDetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryDetailViewModel.swift; sourceTree = "<group>"; };
-		A1000001D /* SearchViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewModel.swift; sourceTree = "<group>"; };
-		A1000001E /* UserProfileViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfileViewModel.swift; sourceTree = "<group>"; };
-		A1000001F /* StoryListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryListView.swift; sourceTree = "<group>"; };
-		A10000020 /* StoryDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryDetailView.swift; sourceTree = "<group>"; };
-		A10000031 /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
-		A10000032 /* UserProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfileView.swift; sourceTree = "<group>"; };
-		A10000033 /* BookmarksView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookmarksView.swift; sourceTree = "<group>"; };
-		A10000034 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
-		A10000035 /* HTMLTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTMLTextView.swift; sourceTree = "<group>"; };
-		A10000036 /* SafariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariView.swift; sourceTree = "<group>"; };
-		A10000037 /* LoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
+		C10000001 /* HackerNewsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackerNewsApp.swift; sourceTree = "<group>"; };
+		C10000002 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		C10000003 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C10000004 /* Story.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Story.swift; sourceTree = "<group>"; };
+		C10000005 /* Comment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Comment.swift; sourceTree = "<group>"; };
+		C10000006 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		C10000007 /* SearchResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResult.swift; sourceTree = "<group>"; };
+		C10000008 /* HackerNewsAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackerNewsAPI.swift; sourceTree = "<group>"; };
+		C10000009 /* BookmarkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookmarkManager.swift; sourceTree = "<group>"; };
+		C1000000A /* ThemeManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeManager.swift; sourceTree = "<group>"; };
+		C1000000B /* StoryListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryListViewModel.swift; sourceTree = "<group>"; };
+		C1000000C /* StoryDetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryDetailViewModel.swift; sourceTree = "<group>"; };
+		C1000000D /* SearchViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewModel.swift; sourceTree = "<group>"; };
+		C1000000E /* UserProfileViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfileViewModel.swift; sourceTree = "<group>"; };
+		C1000000F /* StoryListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryListView.swift; sourceTree = "<group>"; };
+		C10000010 /* StoryDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryDetailView.swift; sourceTree = "<group>"; };
+		C10000011 /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
+		C10000012 /* UserProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfileView.swift; sourceTree = "<group>"; };
+		C10000013 /* BookmarksView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookmarksView.swift; sourceTree = "<group>"; };
+		C10000014 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		C10000015 /* HTMLTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTMLTextView.swift; sourceTree = "<group>"; };
+		C10000016 /* SafariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariView.swift; sourceTree = "<group>"; };
+		C10000017 /* LoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A10000100 /* Frameworks */ = {
+		D10000001 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -70,29 +70,29 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A10000200 = {
+		E10000001 = {
 			isa = PBXGroup;
 			children = (
-				A10000201 /* HackerNewsApp */,
-				A10000202 /* Products */,
+				E10000002 /* HackerNewsApp */,
+				E10000003 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		A10000201 /* HackerNewsApp */ = {
+		E10000002 /* HackerNewsApp */ = {
 			isa = PBXGroup;
 			children = (
-				A10000011 /* HackerNewsApp.swift */,
-				A10000203 /* Models */,
-				A10000204 /* Views */,
-				A10000205 /* ViewModels */,
-				A10000206 /* Services */,
-				A10000207 /* Utils */,
-				A10000208 /* Resources */,
+				C10000001 /* HackerNewsApp.swift */,
+				E10000004 /* Models */,
+				E10000005 /* Views */,
+				E10000006 /* ViewModels */,
+				E10000007 /* Services */,
+				E10000008 /* Utils */,
+				E10000009 /* Resources */,
 			);
 			path = HackerNewsApp;
 			sourceTree = "<group>";
 		};
-		A10000202 /* Products */ = {
+		E10000003 /* Products */ = {
 			isa = PBXGroup;
 			children = (
 				A10000001 /* HackerNewsApp.app */,
@@ -100,66 +100,66 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A10000203 /* Models */ = {
+		E10000004 /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				A10000014 /* Story.swift */,
-				A10000015 /* Comment.swift */,
-				A10000016 /* User.swift */,
-				A10000017 /* SearchResult.swift */,
+				C10000004 /* Story.swift */,
+				C10000005 /* Comment.swift */,
+				C10000006 /* User.swift */,
+				C10000007 /* SearchResult.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
 		};
-		A10000204 /* Views */ = {
+		E10000005 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				A10000012 /* ContentView.swift */,
-				A1000001F /* StoryListView.swift */,
-				A10000020 /* StoryDetailView.swift */,
-				A10000031 /* SearchView.swift */,
-				A10000032 /* UserProfileView.swift */,
-				A10000033 /* BookmarksView.swift */,
-				A10000034 /* SettingsView.swift */,
+				C10000002 /* ContentView.swift */,
+				C1000000F /* StoryListView.swift */,
+				C10000010 /* StoryDetailView.swift */,
+				C10000011 /* SearchView.swift */,
+				C10000012 /* UserProfileView.swift */,
+				C10000013 /* BookmarksView.swift */,
+				C10000014 /* SettingsView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
 		};
-		A10000205 /* ViewModels */ = {
+		E10000006 /* ViewModels */ = {
 			isa = PBXGroup;
 			children = (
-				A1000001B /* StoryListViewModel.swift */,
-				A1000001C /* StoryDetailViewModel.swift */,
-				A1000001D /* SearchViewModel.swift */,
-				A1000001E /* UserProfileViewModel.swift */,
+				C1000000B /* StoryListViewModel.swift */,
+				C1000000C /* StoryDetailViewModel.swift */,
+				C1000000D /* SearchViewModel.swift */,
+				C1000000E /* UserProfileViewModel.swift */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
 		};
-		A10000206 /* Services */ = {
+		E10000007 /* Services */ = {
 			isa = PBXGroup;
 			children = (
-				A10000018 /* HackerNewsAPI.swift */,
-				A10000019 /* BookmarkManager.swift */,
-				A1000001A /* ThemeManager.swift */,
+				C10000008 /* HackerNewsAPI.swift */,
+				C10000009 /* BookmarkManager.swift */,
+				C1000000A /* ThemeManager.swift */,
 			);
 			path = Services;
 			sourceTree = "<group>";
 		};
-		A10000207 /* Utils */ = {
+		E10000008 /* Utils */ = {
 			isa = PBXGroup;
 			children = (
-				A10000035 /* HTMLTextView.swift */,
-				A10000036 /* SafariView.swift */,
-				A10000037 /* LoadingView.swift */,
+				C10000015 /* HTMLTextView.swift */,
+				C10000016 /* SafariView.swift */,
+				C10000017 /* LoadingView.swift */,
 			);
 			path = Utils;
 			sourceTree = "<group>";
 		};
-		A10000208 /* Resources */ = {
+		E10000009 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				A10000013 /* Assets.xcassets */,
+				C10000003 /* Assets.xcassets */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -167,13 +167,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A10000300 /* HackerNewsApp */ = {
+		F10000001 /* HackerNewsApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A10000400 /* Build configuration list for PBXNativeTarget "HackerNewsApp" */;
+			buildConfigurationList = F10000002 /* Build configuration list for PBXNativeTarget "HackerNewsApp" */;
 			buildPhases = (
-				A10000301 /* Sources */,
-				A10000100 /* Frameworks */,
-				A10000302 /* Resources */,
+				F10000003 /* Sources */,
+				D10000001 /* Frameworks */,
+				F10000004 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -187,19 +187,19 @@
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		A10000500 /* Project object */ = {
+		F10000005 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1500;
 				LastUpgradeCheck = 1500;
 				TargetAttributes = {
-					A10000300 = {
+					F10000001 = {
 						CreatedOnToolsVersion = 15.0;
 					};
 				};
 			};
-			buildConfigurationList = A10000600 /* Build configuration list for PBXProject "HackerNewsApp" */;
+			buildConfigurationList = F10000006 /* Build configuration list for PBXProject "HackerNewsApp" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -207,61 +207,61 @@
 				en,
 				Base,
 			);
-			mainGroup = A10000200;
-			productRefGroup = A10000202 /* Products */;
+			mainGroup = E10000001;
+			productRefGroup = E10000003 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A10000300 /* HackerNewsApp */,
+				F10000001 /* HackerNewsApp */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		A10000302 /* Resources */ = {
+		F10000004 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A10000003 /* Assets.xcassets in Resources */,
+				B10000003 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		A10000301 /* Sources */ = {
+		F10000003 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A10000001 /* HackerNewsApp.swift in Sources */,
-				A10000002 /* ContentView.swift in Sources */,
-				A10000004 /* Story.swift in Sources */,
-				A10000005 /* Comment.swift in Sources */,
-				A10000006 /* User.swift in Sources */,
-				A10000007 /* SearchResult.swift in Sources */,
-				A10000008 /* HackerNewsAPI.swift in Sources */,
-				A10000009 /* BookmarkManager.swift in Sources */,
-				A1000000A /* ThemeManager.swift in Sources */,
-				A1000000B /* StoryListViewModel.swift in Sources */,
-				A1000000C /* StoryDetailViewModel.swift in Sources */,
-				A1000000D /* SearchViewModel.swift in Sources */,
-				A1000000E /* UserProfileViewModel.swift in Sources */,
-				A1000000F /* StoryListView.swift in Sources */,
-				A10000010 /* StoryDetailView.swift in Sources */,
-				A10000021 /* SearchView.swift in Sources */,
-				A10000022 /* UserProfileView.swift in Sources */,
-				A10000023 /* BookmarksView.swift in Sources */,
-				A10000024 /* SettingsView.swift in Sources */,
-				A10000025 /* HTMLTextView.swift in Sources */,
-				A10000026 /* SafariView.swift in Sources */,
-				A10000027 /* LoadingView.swift in Sources */,
+				B10000001 /* HackerNewsApp.swift in Sources */,
+				B10000002 /* ContentView.swift in Sources */,
+				B10000004 /* Story.swift in Sources */,
+				B10000005 /* Comment.swift in Sources */,
+				B10000006 /* User.swift in Sources */,
+				B10000007 /* SearchResult.swift in Sources */,
+				B10000008 /* HackerNewsAPI.swift in Sources */,
+				B10000009 /* BookmarkManager.swift in Sources */,
+				B1000000A /* ThemeManager.swift in Sources */,
+				B1000000B /* StoryListViewModel.swift in Sources */,
+				B1000000C /* StoryDetailViewModel.swift in Sources */,
+				B1000000D /* SearchViewModel.swift in Sources */,
+				B1000000E /* UserProfileViewModel.swift in Sources */,
+				B1000000F /* StoryListView.swift in Sources */,
+				B10000010 /* StoryDetailView.swift in Sources */,
+				B10000011 /* SearchView.swift in Sources */,
+				B10000012 /* UserProfileView.swift in Sources */,
+				B10000013 /* BookmarksView.swift in Sources */,
+				B10000014 /* SettingsView.swift in Sources */,
+				B10000015 /* HTMLTextView.swift in Sources */,
+				B10000016 /* SafariView.swift in Sources */,
+				B10000017 /* LoadingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		A10000701 /* Debug */ = {
+		G10000001 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -324,7 +324,7 @@
 			};
 			name = Debug;
 		};
-		A10000702 /* Release */ = {
+		G10000002 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -380,7 +380,7 @@
 			};
 			name = Release;
 		};
-		A10000703 /* Debug */ = {
+		G10000003 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -413,7 +413,7 @@
 			};
 			name = Debug;
 		};
-		A10000704 /* Release */ = {
+		G10000004 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -449,25 +449,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A10000400 /* Build configuration list for PBXNativeTarget "HackerNewsApp" */ = {
+		F10000002 /* Build configuration list for PBXNativeTarget "HackerNewsApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A10000703 /* Debug */,
-				A10000704 /* Release */,
+				G10000003 /* Debug */,
+				G10000004 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A10000600 /* Build configuration list for PBXProject "HackerNewsApp" */ = {
+		F10000006 /* Build configuration list for PBXProject "HackerNewsApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A10000701 /* Debug */,
-				A10000702 /* Release */,
+				G10000001 /* Debug */,
+				G10000002 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = A10000500 /* Project object */;
+	rootObject = F10000005 /* Project object */;
 }
